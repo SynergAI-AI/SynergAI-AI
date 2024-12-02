@@ -30,7 +30,7 @@ We are actively:
 ---
 
 ## 🤝 **Connect with Us**
-- **Email:** [support@synergai.com](mailto:support@synergai.com)
-- **Website (Coming Soon):** [www.synergai-ai.com](#)
+- **Email:** [info@synergai.ai](mailto:info@synergai.ai)
+- **Website :** [www.synergai.ai](#)
 
 Let’s revolutionize trade together!
